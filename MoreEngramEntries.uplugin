@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "9FB2A5B54FC0CAF1C141C19701D4D262",
+	"FriendlyName": "More Engram Entries",
+	"Description": "Adds Engram Entries for common resources for easy editing by server admins.&cf_ugcID=1127698",
+	"Category": "UGC",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "https://www.curseforge.com/ark-survival-ascended/mods/more-engram-entries",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"ExplicitlyLoaded": true
+}
