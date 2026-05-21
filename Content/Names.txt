@@ -64,6 +64,7 @@ EngramEntry_MEE_BioToxin_C
 EngramEntry_MEE_Blood_C
 EngramEntry_MEE_Honey_C
 EngramEntry_MEE_ScrapToIngot_C
+EngramEntry_MEE_ScrapMetal_C
 
 //OrganicPolymer
 EngramEntry_MEE_OrganicPolymer_C
@@ -90,6 +91,7 @@ EngramEntry_MEE_YSeed_C
 EngramEntry_MEE_ZSeed_C
 
 //Trophies
+EngramEntry_MEE_AcroGland_C
 EngramEntry_MEE_AlloBrain_C
 EngramEntry_MEE_AlphaBaskFang_C
 EngramEntry_MEE_AlphaCarnoArm_C
@@ -196,6 +198,7 @@ PrimalItemResource_MEE_BioToxin_ChemBench_C
 PrimalItemResource_MEE_Blood_C
 PrimalItemResource_MEE_Honey_C
 PrimalItemResource_MEE_ScrapToIngot_C
+PrimalItemResource_MEE_ScrapMetal_C
 
 //OrganicPolymer
 PrimalItemResource_MEE_OrganicPolymer_C
@@ -224,6 +227,7 @@ PrimalItemResource_MEE_YSeed_C
 PrimalItemResource_MEE_ZSeed_C
 
 //Trophies
+PrimalItemResource_MEE_AcroGland_C
 PrimalItemResource_MEE_AlloBrain_C
 PrimalItemResource_MEE_AlphaBaskFang_C
 PrimalItemResource_MEE_AlphaCarnoArm_C
